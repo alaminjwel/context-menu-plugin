@@ -18,9 +18,9 @@ export default {
 <style lang="sass" scoped>
 .search
   input    
-    color: red
+    color: white
     padding: 1px 8px
-    border: 3px solid red
+    border: 1px solid white
     border-radius: 10px
     font-size: 16px
     font-family: serif
